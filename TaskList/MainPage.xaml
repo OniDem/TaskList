@@ -18,7 +18,14 @@
                 HorizontalOptions="Center"
                 Margin="25"/>
 
-            <ListView x:Name="TaskListView"/>
+            <ListView x:Name="TaskListView">
+                <ListView.ItemTemplate>
+                    <DataTemplate>
+                        <TextCell Text="{Binding Name}"
+                                  Detail="{Binding Description}"/>
+                    </DataTemplate>
+                </ListView.ItemTemplate>
+            </ListView>
         </VerticalStackLayout>
     </ScrollView>
 

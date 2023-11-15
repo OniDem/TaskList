@@ -65,6 +65,126 @@ namespace TaskList
             {
                 Name = "Подмести пол",
                 Description = "Пол подмести",
+            },
+            new TaskEntity
+            {
+                Name = "Помыть посуду",
+                Description = "Посуду помыть",
+            },
+            new TaskEntity
+            {
+                Name = "Почистить картошку",
+                Description = "Картошку почистить",
+            },
+            new TaskEntity
+            {
+                Name = "Подмести пол",
+                Description = "Пол подмести",
+            },
+            new TaskEntity
+            {
+                Name = "Помыть посуду",
+                Description = "Посуду помыть",
+            },
+            new TaskEntity
+            {
+                Name = "Почистить картошку",
+                Description = "Картошку почистить",
+            },
+            new TaskEntity
+            {
+                Name = "Подмести пол",
+                Description = "Пол подмести",
+            },
+            new TaskEntity
+            {
+                Name = "Помыть посуду",
+                Description = "Посуду помыть",
+            },
+            new TaskEntity
+            {
+                Name = "Почистить картошку",
+                Description = "Картошку почистить",
+            },
+            new TaskEntity
+            {
+                Name = "Подмести пол",
+                Description = "Пол подмести",
+            },
+            new TaskEntity
+            {
+                Name = "Помыть посуду",
+                Description = "Посуду помыть",
+            },
+            new TaskEntity
+            {
+                Name = "Почистить картошку",
+                Description = "Картошку почистить",
+            },
+            new TaskEntity
+            {
+                Name = "Подмести пол",
+                Description = "Пол подмести",
+            },
+            new TaskEntity
+            {
+                Name = "Помыть посуду",
+                Description = "Посуду помыть",
+            },
+            new TaskEntity
+            {
+                Name = "Почистить картошку",
+                Description = "Картошку почистить",
+            },
+            new TaskEntity
+            {
+                Name = "Подмести пол",
+                Description = "Пол подмести",
+            },
+            new TaskEntity
+            {
+                Name = "Помыть посуду",
+                Description = "Посуду помыть",
+            },
+            new TaskEntity
+            {
+                Name = "Почистить картошку",
+                Description = "Картошку почистить",
+            },
+            new TaskEntity
+            {
+                Name = "Подмести пол",
+                Description = "Пол подмести",
+            },
+            new TaskEntity
+            {
+                Name = "Помыть посуду",
+                Description = "Посуду помыть",
+            },
+            new TaskEntity
+            {
+                Name = "Почистить картошку",
+                Description = "Картошку почистить",
+            },
+            new TaskEntity
+            {
+                Name = "Подмести пол",
+                Description = "Пол подмести",
+            },
+            new TaskEntity
+            {
+                Name = "Помыть посуду",
+                Description = "Посуду помыть",
+            },
+            new TaskEntity
+            {
+                Name = "Почистить картошку",
+                Description = "Картошку почистить",
+            },
+            new TaskEntity
+            {
+                Name = "Подмести пол",
+                Description = "Пол подмести",
             }
     };
 
